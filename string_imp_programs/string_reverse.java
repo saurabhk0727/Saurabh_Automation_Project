@@ -8,5 +8,6 @@ public class string_reverse {
             o=o+c[i];
         }
         System.out.println(o);
+        System.out.println("c1");
     }
 }
